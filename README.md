@@ -24,18 +24,17 @@
 *   Linux, Docker
 *   Linear Algebra, Calculus, Probability Theory and Statistics
 
+## 🛠 Education
+* 📖 **Data Engineering, Masters Degree**\
+📆 2024 - Moment\
+📍 **Higher School of Economics** - Russia, Saint-Petersburg
 
-<!--
-**DorianGrayPicture/DorianGrayPicture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
 
-Here are some ideas to get you started:
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="right" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👨‍💻 **Data Analyst**\
+📆 2024 - moment\
+📍 **Rosseti** - Saint-Petersburg, Russia
