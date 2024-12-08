@@ -16,6 +16,13 @@
   📫 How to reach me: <a href='mailto:ArbeitenDenis@yandex.ru'>ArbeitenDenis@yandex.ru</a>
 </p>
 
+## 🛠 Technical Stack
+*   Java/Kotlin/Python/Bash languages
+*   Pandas/NumPy/SQLAlchemy/Apache Airflow/PySpark/Streamlit
+*   Graphana, Prometheus
+*   MySQL, PostgreSQL, MongoDB, Redis
+*   Linux, Docker
+
 
 <!--
 **DorianGrayPicture/DorianGrayPicture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
