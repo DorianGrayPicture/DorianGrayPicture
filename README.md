@@ -3,12 +3,7 @@
 </h1>
 
 <p align='center'>
-  A developer from Russia
-</p>
-
-<p align='center'>
-   <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=doriangraypicture&layout=compact"/></a>
+  A committed Data Engineering/Data Science enthusiast with five months of experience at the largest Russian power company. Currently pursuing a master's degree in Data Engineering at HSE University, I am eager to apply my developing skills to contribute meaningfully in the field.
 </p>
 
 <p align='center'>
