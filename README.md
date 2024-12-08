@@ -2,6 +2,15 @@
   Hi there, I'm Denis 👋
 </h1>
 
+<p align='center'>
+  A developer from Russia
+</p>
+
+<p align='center'>
+  <img src="[{BadgeURLHere}](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" />
+</p>
+
+
 ![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 <!--
