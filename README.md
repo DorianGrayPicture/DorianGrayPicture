@@ -17,11 +17,12 @@
 </p>
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Python/Bash languages
-*   Pandas/NumPy/SQLAlchemy/Apache Airflow/PySpark/Streamlit
+*   Java/Kotlin/Python languages
+*   Pandas, NumPy, SQLAlchemy, Apache Airflow, PySpark, Streamlit
 *   Graphana, Prometheus
 *   MySQL, PostgreSQL, MongoDB, Redis
 *   Linux, Docker
+*   Linear Algebra, Calculus, Probability Theory and Statistics
 
 
 <!--
