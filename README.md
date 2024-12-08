@@ -24,12 +24,12 @@
 *   Linux, Docker
 *   Linear Algebra, Calculus, Probability Theory and Statistics
 
-## 🛠 Education
-* 📖 **Data Engineering, Masters Degree**\
+## 📖 Education
+*  **Data Engineering, Masters Degree**\
 📆 2024 - Moment\
 📍 **Higher School of Economics** - Russia, Saint-Petersburg
 
-## Experience
+## :construction_worker: Experience
 
 <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="right" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -38,3 +38,5 @@
 - 👨‍💻 **Data Analyst**\
 📆 2024 - moment\
 📍 **Rosseti** - Saint-Petersburg, Russia
+
+Currently working as a Data Analyst in the power company Rosseti
