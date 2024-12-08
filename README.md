@@ -7,12 +7,11 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/sponsors/alexandresanlim">
+  <a href="https://web.telegram.org/k/#@DeObject">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
-![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 <!--
 **DorianGrayPicture/DorianGrayPicture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
