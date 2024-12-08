@@ -7,9 +7,10 @@
 </p>
 
 <p align='center'>
-  <img src="[{BadgeURLHere}](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" />
+  <a href="https://github.com/sponsors/alexandresanlim">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
-
 
 ![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
