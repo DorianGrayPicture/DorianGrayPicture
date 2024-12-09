@@ -46,4 +46,4 @@
   - Automated the data pipeline for service work trips of power line maintenance employees by integrating API data from the server into an internal PostgreSQL database. Used Python (requests, SQLAlchemy) for fetching data, cleansing and loading to database.
 
 ## 👨‍🎓 About me
-- Motivated student pursuing a masters degree in Data Engineering with passion for Data Science and Math. I am dedicated to building a strong foundation in Computer Science, with a focus on developing essential skills and knowledge that drive innovation in Data Science. Being in a like-minded community to contribute to team effort is crucial for me.
+- Motivated student pursuing a masters degree in Data Engineering with passion for Data Science and Math. I am dedicated to building a strong foundation in Computer Science, with a focus on developing essential skills and knowledge that drive innovation in Data Science. Being in a like-minded community to contribute to team effort is crucial for me. Strong analytical, research, and problem-solving skills gained through academic projects and extracurricular activities.
