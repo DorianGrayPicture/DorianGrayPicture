@@ -35,8 +35,11 @@
 <img align="right" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 
 - 👨‍💻 **Data Analyst**\
 📆 2024 - Present\
 📍 **Rosseti** - Saint-Petersburg, Russia
-  - Established a data pipeline for analyzing power outages in the Northwestern Federal District of Russia. Utilized Pandas and Plotly for data cleaning, preparation, and visualization, enabling comprehensive analysis and insights into outage patterns.
+  - Established a data pipeline for analyzing power outages in the Northwestern Federal District of Russia. Utilized Pandas and Plotly for data cleaning, preparation, and visualization, enabling comprehensive analysis and insights into outage patterns. Currently developing a predictive model to forecast power outages, aimed at enhancing the maintenance of power transmission lines.
+  - Deployed a Learning Management System (LMS) for internal corporate education on a Linux server using Docker. Improved training efficiency and resource accessibility for employees.
+  - Automated the data pipeline for service work trips of power line maintenance employees by integrating API data from the server into an internal PostgreSQL database. Used Python (requests, SQLAlchemy) for fetching data, cleansing and loading to database.
