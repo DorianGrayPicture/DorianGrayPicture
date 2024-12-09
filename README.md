@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A committed Data Engineering/Data Science enthusiast with five months of experience at the largest Russian power company. Currently pursuing a master's degree in Data Engineering at HSE University, I am eager to apply my developing skills to contribute meaningfully in the field.
+  A committed Data Engineering/Data Science student with five months of experience at the largest Russian power company. Currently pursuing a master's degree in Data Engineering at HSE University, I am eager to apply my developing skills to contribute meaningfully in the field.
 </p>
 
 <p align='center'>
@@ -26,17 +26,17 @@
 
 ## 📖 Education
 *  **Data Engineering, Masters Degree**\
-📆 2024 - Moment\
+📆 2024 - Present\
 📍 **Higher School of Economics** - Russia, Saint-Petersburg
 
 ## :construction_worker: Experience
 
 <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="right" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-
+<img align="right" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 - 👨‍💻 **Data Analyst**\
-📆 2024 - moment\
+📆 2024 - Present\
 📍 **Rosseti** - Saint-Petersburg, Russia
-
-Currently working as a Data Analyst in the power company Rosseti
+  - Established a data pipeline for analyzing power outages in the Northwestern Federal District of Russia. Utilized Pandas and Plotly for data cleaning, preparation, and visualization, enabling comprehensive analysis and insights into outage patterns.
