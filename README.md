@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A committed Data Engineering/Data Science student with five months of experience at the largest Russian power company. Currently pursuing a master's degree in Data Engineering at HSE University, I am eager to apply my developing skills to contribute meaningfully in the field.
+  A committed Data Engineering/Data Science student, pursuing a master's degree in Data Engineering at HSE University. I am eager to apply my classroom skills to contribute meaningfully in the field.
 </p>
 
 <p align='center'>
@@ -20,6 +20,7 @@
 *   Java/Kotlin/Python languages
 *   Pandas, NumPy, SQLAlchemy, Apache Airflow, PySpark, Streamlit
 *   Graphana, Prometheus
+*   Git, GitHub
 *   MySQL, PostgreSQL, MongoDB, Redis
 *   Linux, Docker
 *   Linear Algebra, Calculus, Probability Theory and Statistics
@@ -43,3 +44,6 @@
   - Established a data pipeline for analyzing power outages in the Northwestern Federal District of Russia. Utilized Pandas and Plotly for data cleaning, preparation, and visualization, enabling comprehensive analysis and insights into outage patterns. Currently developing a predictive model to forecast power outages, aimed at enhancing the maintenance of power transmission lines.
   - Deployed a Learning Management System (LMS) for internal corporate education on a Linux server using Docker. Improved training efficiency and resource accessibility for employees.
   - Automated the data pipeline for service work trips of power line maintenance employees by integrating API data from the server into an internal PostgreSQL database. Used Python (requests, SQLAlchemy) for fetching data, cleansing and loading to database.
+
+## 👨‍🎓 About me
+- Motivated student pursuing a masters degree in Software Delopment 
